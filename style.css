@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ECF0F1; /* Background color */
+}
+
+.header {
+    background-color: #1d3749; /* Header background color (sky blue) */
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.name {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.contact-info {
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+.section {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff; /* Section background color */
+}
+
+.section-header {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #3498DB; /* Section header color (sky blue) */
+}
+
+.section-content {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+a {
+    color: #3498DB; /* Link color (sky blue) */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
